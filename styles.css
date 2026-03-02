@@ -11,7 +11,7 @@ body {
 /* Fonts */
 @font-face {
     font-family: NexaHeavy;
-    src: url(media/Fonts/nexa-heavy.ttf);
+    src: url(Media/Fonts/nexa-heavy.ttf);
 }
 
 @font-face {
@@ -185,4 +185,5 @@ nav a {
     font-family: NexaLight;
     text-align: justify;
     font-size: 1.1rem;
+
 }
