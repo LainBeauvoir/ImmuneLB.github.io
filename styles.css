@@ -11,12 +11,12 @@ body {
 
 @font-face {
     font-family: nexaheavy;
-    src: url(media/Fonts/nexa-heavy.ttf);
+    src: url(media/fonts/nexa-heavy.ttf);
 }
 
 @font-face {
     font-family: nexalight;
-    src: url(Media/Fonts/nexa-light.ttf);
+    src: url(media/fonts/nexa-light.ttf);
 }
 
 /* navigation bar elements */
